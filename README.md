@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000" height="250" src="https://media1.tenor.com/m/z3sxfsXpHtUAAAAd/beaver-carrot.gif" alt="Beaver Carrot GIF" />
+  <img width="256" height="144" src="./banner.gif" alt="Banner GIF" />
 </div>
 <p align="center">
 🧟💀🥶
