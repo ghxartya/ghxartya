@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="256" height="144" src="./banner.gif" alt="Banner GIF" />
+  <img width="600" height="338" src="./banner.gif" alt="Banner GIF" />
 </div>
 <p align="center">
 🧟💀🥶
